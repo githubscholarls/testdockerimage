@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oDb0RMGdPkJI6JKcoBZuhECh89VEaroShSp8WMZM0HpAPUmnRRv2Bo7XD5qXX65eMyAopqHyq5R650zsiG5lNg==",
+  "success": true,
+  "projectFilePath": "C:\\lishuai\\api\\source\\visual Studio\\test\\testImage\\testImage\\testImage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\23635\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}

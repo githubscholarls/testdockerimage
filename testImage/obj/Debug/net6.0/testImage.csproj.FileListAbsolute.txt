@@ -1,0 +1,15 @@
+C:\lishuai\api\source\visual Studio\test\testImage\testImage\bin\Debug\net6.0\testImage.exe
+C:\lishuai\api\source\visual Studio\test\testImage\testImage\bin\Debug\net6.0\testImage.deps.json
+C:\lishuai\api\source\visual Studio\test\testImage\testImage\bin\Debug\net6.0\testImage.runtimeconfig.json
+C:\lishuai\api\source\visual Studio\test\testImage\testImage\bin\Debug\net6.0\testImage.dll
+C:\lishuai\api\source\visual Studio\test\testImage\testImage\bin\Debug\net6.0\testImage.pdb
+C:\lishuai\api\source\visual Studio\test\testImage\testImage\obj\Debug\net6.0\testImage.csproj.AssemblyReference.cache
+C:\lishuai\api\source\visual Studio\test\testImage\testImage\obj\Debug\net6.0\testImage.GeneratedMSBuildEditorConfig.editorconfig
+C:\lishuai\api\source\visual Studio\test\testImage\testImage\obj\Debug\net6.0\testImage.AssemblyInfoInputs.cache
+C:\lishuai\api\source\visual Studio\test\testImage\testImage\obj\Debug\net6.0\testImage.AssemblyInfo.cs
+C:\lishuai\api\source\visual Studio\test\testImage\testImage\obj\Debug\net6.0\testImage.csproj.CoreCompileInputs.cache
+C:\lishuai\api\source\visual Studio\test\testImage\testImage\obj\Debug\net6.0\testImage.dll
+C:\lishuai\api\source\visual Studio\test\testImage\testImage\obj\Debug\net6.0\refint\testImage.dll
+C:\lishuai\api\source\visual Studio\test\testImage\testImage\obj\Debug\net6.0\testImage.pdb
+C:\lishuai\api\source\visual Studio\test\testImage\testImage\obj\Debug\net6.0\testImage.genruntimeconfig.cache
+C:\lishuai\api\source\visual Studio\test\testImage\testImage\obj\Debug\net6.0\ref\testImage.dll

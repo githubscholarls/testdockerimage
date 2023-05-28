@@ -1,0 +1,5 @@
+C:\lishuai\api\source\visual Studio\test\testImage\testImage\obj\Debug\net5.0\testImage.csproj.AssemblyReference.cache
+C:\lishuai\api\source\visual Studio\test\testImage\testImage\obj\Debug\net5.0\testImage.GeneratedMSBuildEditorConfig.editorconfig
+C:\lishuai\api\source\visual Studio\test\testImage\testImage\obj\Debug\net5.0\testImage.AssemblyInfoInputs.cache
+C:\lishuai\api\source\visual Studio\test\testImage\testImage\obj\Debug\net5.0\testImage.AssemblyInfo.cs
+C:\lishuai\api\source\visual Studio\test\testImage\testImage\obj\Debug\net5.0\testImage.csproj.CoreCompileInputs.cache
